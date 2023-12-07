@@ -12,7 +12,7 @@
  
 ### Meus stats do GitHub
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathiasbortoluzzi&show_icons=true&theme=dracula">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathiasbortoluzzi&show_icons=true&theme=prussian">
 </div>
  
 ### Linguagens 💻
