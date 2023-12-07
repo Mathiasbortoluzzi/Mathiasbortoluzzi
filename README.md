@@ -6,6 +6,8 @@
   
 - 🤔 Procurando novas oportunidades
 
+- 📧 Entre em contato comigo Mathiasbortoluzzi123@gmail.com
+
 
  
 ### Meus stats do GitHub
